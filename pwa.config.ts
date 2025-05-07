@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'KabaRakyat.web.id',
+  shortName: 'KabaRakyat.web.id',
+  description: 'KabaRakyat adalah platform berita terpercaya yang menyajikan informasi terkini dan analisis mendalam dari berbagai sektor.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.kabarakyat.web.id/',
 } satisfies Config;
