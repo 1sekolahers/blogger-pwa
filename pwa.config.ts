@@ -39,5 +39,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.kabarakyat.web.id/',
+  origin: 'https://www.kabarakyat.web.id',
 } satisfies Config;
