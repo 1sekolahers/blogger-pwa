@@ -1,7 +1,7 @@
 {
-  "name": "My Blog",
+  "name": "KabaRakyat",
   "id": "/",
-  "short_name": "My Blog",
+  "short_name": "KabaRakyat",
   "description": "My blog description goes here...",
   "dir": "auto",
   "lang": "en-US",
@@ -115,10 +115,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Berita Terkini",
+      "short_name": "Berita Terkini",
+      "description": "Update Berita Terkini yang sedang viral di Indonesia!",
+      "url": "https://www.kabarakyat.web.id/search/label/Berita?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -127,10 +127,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "name": "Kabar Dunia",
+      "short_name": "Kabar Dunia",
+      "description": "Update kejadian di dunia dengan berita terlengkap dan terpercaya 24 jam.",
+      "url": "https://www.kabarakyat.web.id/search/label/Kabar%20Dunia?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
