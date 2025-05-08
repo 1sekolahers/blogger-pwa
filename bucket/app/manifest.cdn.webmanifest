@@ -137,6 +137,18 @@
           "sizes": "96x96"
         }
       ]
+    }, 
+    {
+      "name": "Contact 📩",
+      "short_name": "Contact 📩",
+      "description": "Hubungi kami untuk bisnis dan kerja sama.",
+      "url": "https://www.kabarakyat.web.id/p/contact.html?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-chrome-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
     }
   ]
 }
