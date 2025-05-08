@@ -17,16 +17,16 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Berita Terkini',
+      shortName: 'Berita Terkini',
+      description: 'Update Berita Terkini lebih aktual dan terpercaya 24 jam.',
+      url: '/search/label/Berita?utm_source=homescreen',
     },
     {
-      name: 'Shortcut 2',
-      shortName: 'Shortcut 2',
-      description: 'Shortcut 2 description goes here...',
-      url: '/search/label/shortcut-2?utm_source=homescreen',
+      name: 'Hubungi Kami 📩',
+      shortName: 'Hubungi Kami 📩',
+      description: 'Kirim pesan pertanyaan atau bisnis kerja sama.',
+      url: '/p/contact.html?utm_source=homescreen',
     },
   ],
   pwa: {
