@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'KabaRakyat',
-  shortName: 'KabaRakyat',
-  description: 'KabaRakyat.web.id adalah platform berita terpercaya yang menyajikan informasi terkini dan analisis mendalam dari berbagai sektor.',
+  name: 'KabaRakyat.web.id',
+  shortName: 'KabaRakyat.web.id',
+  description: 'Baca berita lebih mudah dan sedikit iklan lewat aplikasi Kabarakyat, Download sekarang juga!',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -27,6 +27,11 @@ export default {
       shortName: 'Hubungi Kami 📩',
       description: 'Kirim pesan pertanyaan atau bisnis kerja sama.',
       url: '/p/contact.html?utm_source=homescreen',
+    },
+    {
+      name: 'App by: Harun Alfala',
+      shortName: 'App by: Harun Alfala',
+      description: 'Copyright', 
     },
   ],
   pwa: {
