@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'KabaRakyat.web.id',
   shortName: 'KabaRakyat.web.id',
-  description: 'Dapatkan berita terbaru dari <b>Kabarakyat.web.id</b> langsung di ponsel Anda dengan mudah! Instal Aplikasi kami sekarang untuk akses lebih cepat, hemat data dan penyimpanan, serta pengalaman membaca yang lebih nyaman dengan iklan lebih sedikit. Klik <b>INSTAL</b> dan nikmati informasi terkini kapan saja sekarang juga!',
+  description: 'Unduh aplikasi Kabarakyat.web.id sekarang! Super ringan, hemat kuota, cepat, dan iklan lebih sedikit. Nikmati berita terkini dengan notifikasi instan, tampilan nyaman, dan akses offline. Klik untuk instal dan tetap terinformasi!',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
