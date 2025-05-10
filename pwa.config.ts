@@ -19,7 +19,7 @@ export default {
     {
       name: 'Berita Terkini',
       shortName: 'Berita Terkini',
-      description: 'Update Berita Terkini lebih aktual dan terpercaya 24 jam.',
+      description: Dapatkan berita terbaru dari <b>Kabarakyat.web.id</b> langsung di ponsel Anda dengan mudah! Instal Aplikasi kami sekarang untuk akses lebih cepat, hemat data, dan penyimpanan, serta pengalaman membaca yang lebih nyaman dengan iklan lebih sedikit. Klik <b>INSTAL</b> dan nikmati informasi terkini kapan saja dalam genggaman anda!',
       url: '/search/label/Berita?utm_source=homescreen',
     },
     {
