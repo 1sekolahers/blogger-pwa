@@ -28,11 +28,6 @@ export default {
       description: 'Kirim pesan pertanyaan atau bisnis kerja sama.',
       url: '/p/contact.html?utm_source=homescreen',
     },
-    {
-      name: 'App by: Harun Alfala',
-      shortName: 'App by: Harun Alfala',
-      description: 'Copyright', 
-    },
   ],
   pwa: {
     logs: true,
