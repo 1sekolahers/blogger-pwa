@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'KabaRakyat.web.id',
   shortName: 'KabaRakyat.web.id',
-  description: 'Baca berita lebih mudah dan sedikit iklan lewat aplikasi Kabarakyat, Download sekarang juga!',
+  description: 'Dapatkan berita terbaru dari <b>Kabarakyat.web.id</b> langsung di ponsel Anda dengan mudah! Instal Aplikasi kami sekarang untuk akses lebih cepat, hemat data dan penyimpanan, serta pengalaman membaca yang lebih nyaman dengan iklan lebih sedikit. Klik <b>INSTAL</b> dan nikmati informasi terkini kapan saja sekarang juga!',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -19,7 +19,7 @@ export default {
     {
       name: 'Berita Terkini',
       shortName: 'Berita Terkini',
-      description: Dapatkan berita terbaru dari <b>Kabarakyat.web.id</b> langsung di ponsel Anda dengan mudah! Instal Aplikasi kami sekarang untuk akses lebih cepat, hemat data, dan penyimpanan, serta pengalaman membaca yang lebih nyaman dengan iklan lebih sedikit. Klik <b>INSTAL</b> dan nikmati informasi terkini kapan saja dalam genggaman anda!',
+      description: 'Update Berita Terkini yang sedang viral di Indonesia',
       url: '/search/label/Berita?utm_source=homescreen',
     },
     {
