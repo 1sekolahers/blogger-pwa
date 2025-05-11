@@ -2,7 +2,7 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'KabaRakyat.web.id',
+  name: 'KabaRakyat App',
   shortName: 'KabaRakyat.web.id',
   description: 'Unduh aplikasi Kabarakyat.web.id sekarang! Super ringan, hemat kuota, cepat, dan iklan lebih sedikit. Nikmati berita terkini dengan notifikasi instan, tampilan nyaman, dan akses offline. Klik untuk instal dan tetap terinformasi!',
   direction: 'auto',
